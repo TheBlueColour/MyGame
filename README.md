@@ -125,6 +125,22 @@ The 3D models for the player and the Ai are just the base 3D models from Unreal 
 
 ### References
 
+How to Make a Moving Platform in Unreal Engine 5 - YouTube (s.d.) At: https://www.youtube.com/watch?v=WznFdYWM2c8 (Accessed  04/12/2025).
+
+Event Dispatchers | Unreal Engine 5 Tutorial - YouTube (s.d.) At: https://www.youtube.com/watch?v=r20VEPH_e0o (Accessed  04/12/2025).
+
+How to Make A Behavior Tree in Unreal Engine 5 Tutorial ( Complete Guide ) - YouTube (s.d.) At: https://www.youtube.com/watch?v=PVt6WlthSvo (Accessed  04/12/2025).
+
+How To Make Wall Jump and Slide In Unreal Engine 5 - YouTube (s.d.) At: https://www.youtube.com/watch?v=pd1KZASjSy0 (Accessed  04/12/2025).
+
+The Easiest Way to Make a Simple Enemy AI in Unreal Engine 5 - YouTube (s.d.) At: https://www.youtube.com/watch?v=xm-7m5Fw1HU (Accessed  04/12/2025).
+
+Learn Blueprints in Unreal Engine 5 - Beginner Tutorial - YouTube (s.d.) At: https://www.youtube.com/watch?v=opyV7rhKSFc (Accessed  04/12/2025).
+
+Save 50% on Sonic Adventure 2 on Steam (s.d.) At: https://store.steampowered.com/app/213610/Sonic_Adventure_2/ (Accessed  02/12/2025).
+
+Sonic Generations Collection on Steam (s.d.) At: https://store.steampowered.com/app/71340/Sonic_Generations_Collection/ (Accessed  02/12/2025).
+
 
 
 
