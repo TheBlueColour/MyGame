@@ -1,12 +1,8 @@
 # FGCT4015: Fundamentals of Games Development 25/26
 
-### Zuzanna Pawelczyk
+### Name/ID: Zuzanna Pawelczyk 2506784
 
-### 2506784
-
-### Repository Link
-### Build Link
-### Demo Video
+### Demo Video : https://youtu.be/4Yu_owIaaiM
 
 
 ## Abstract 
@@ -99,6 +95,8 @@ Overall, the user's opinion on the movement and responsiveness of the game was i
 ![alt text](image-5.png)
 
 ### Outcome
+
+https://youtu.be/4Yu_owIaaiM
 
 ### Reflection
 
